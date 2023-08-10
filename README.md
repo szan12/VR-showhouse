@@ -4,4 +4,4 @@
 2. 3D models recontruction were done using Google SketchUp.
 3. Environment and all 3D objects and characters were imported into Vizard, a VR software development platform.
 
-<sub>VR Group Project Semester II 2021/2022 (14062022)
+<sub>VR Group Project Semester II 2021/2022 (14062022)</sub>
